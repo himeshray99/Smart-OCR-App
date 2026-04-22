@@ -5,6 +5,8 @@ A modern AI-powered OCR (Optical Character Recognition) web app built using Stre
 A modern AI-powered OCR (Optical Character Recognition) web app built using Streamlit and EasyOCR.
 
 ---
+<img width="1397" height="742" alt="Screenshot OCR" src="https://github.com/user-attachments/assets/e28cc546-e46e-424b-83aa-bbab8f9df9b1" />
+
 
 ## 🚀 Features
 
